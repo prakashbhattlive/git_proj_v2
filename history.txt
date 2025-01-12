@@ -17,3 +17,4 @@ git push --set-upstream origin developer
 git push --set-upstream origin developer
 git pull origin developer
 >>>>>>> developer
+git merge developer
