@@ -11,4 +11,9 @@ git push
 git branch
 git branch developer
 git switch developer
+<<<<<<< HEAD
 git push --set-upstream origin developer
+=======
+git push --set-upstream origin developer
+git pull origin developer
+>>>>>>> developer
