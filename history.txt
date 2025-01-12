@@ -1,0 +1,12 @@
+git init
+git add new_project.txt 
+git status
+git commit -m "new_project_v1"
+git diff
+git log
+git log --author="prakashbhatt@live.com"
+git clone -b main https://github.com/prakashbhattlive/git_proj_v2.git
+git pull
+git push
+git branch
+git branch developer
