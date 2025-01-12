@@ -21,3 +21,7 @@ git merge developer
 git log --oneline
 git reset --soft 51d425f
 git reset --hard 41f3f5a
+git diff 6eaff2f 4f997ba
+git branch -a
+git branch -m quality quality1  ##reanaming
+git branch -d quality1  ##deleting a branch
