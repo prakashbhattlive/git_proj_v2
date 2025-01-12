@@ -25,3 +25,5 @@ git diff 6eaff2f 4f997ba
 git branch -a
 git branch -m quality quality1  ##reanaming
 git branch -d quality1  ##deleting a branch
+git log --oneline --graph
+git merge main -m "Merging main to develop"
