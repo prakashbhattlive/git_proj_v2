@@ -18,3 +18,6 @@ git push --set-upstream origin developer
 git pull origin developer
 >>>>>>> developer
 git merge developer
+git log --oneline
+git reset --soft 51d425f
+git reset --hard 41f3f5a
