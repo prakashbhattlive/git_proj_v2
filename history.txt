@@ -10,3 +10,6 @@ git pull
 git push
 git branch
 git branch developer
+git switch developer
+git push --set-upstream origin developer
+git pull origin developer
