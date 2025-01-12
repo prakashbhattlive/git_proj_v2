@@ -27,3 +27,6 @@ git branch -m quality quality1  ##reanaming
 git branch -d quality1  ##deleting a branch
 git log --oneline --graph
 git merge main -m "Merging main to develop"
+git stash                                     ##Saving uncommited code in statsh (WIP)
+git stash list
+git stash apply
