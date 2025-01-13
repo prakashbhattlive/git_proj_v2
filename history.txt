@@ -33,3 +33,6 @@ git stash apply
 git stash drop
 git stash -a
 git stash pop
+git stash save "change in delveloper_test.txt"
+git stash show stash@{1}
+git stash pop stash@{1}
