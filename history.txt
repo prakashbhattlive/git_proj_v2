@@ -31,3 +31,5 @@ git stash                                     ##Saving uncommited code in statsh
 git stash list
 git stash apply
 git stash drop
+git stash -a
+git stash pop
